@@ -156,7 +156,7 @@ Deploying, monitoring and optimizing systems.
 
 
 <img
-src="./profile-3d-contrib/profile-night-view.svg"
+src="./profile-3d-contrib/profile-green-animate.svg"
 width="100%"
 alt="3D GitHub Contributions"
 />
