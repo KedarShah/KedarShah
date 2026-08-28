@@ -1,125 +1,306 @@
-
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/Kedar355/Kedar355/main/Top.svg" width="100%" alt="Header" />
 
-# 👋 Hi, I'm <a href="https://kedarshah.in">Kedar Shah</a>
+# 👋 Hey, I'm **Kedar Shah**
 
-### Full Stack Developer · React Specialist · Automation Enthusiast
+### `Full Stack Engineer` · `Problem Solver` · `Automation Nerd` · `Systems Builder`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=1200&color=2F81F7&center=true&vCenter=true&width=700&lines=Building+modern+web+experiences;React+%7C+Next.js+%7C+TypeScript;Backend+%7C+APIs+%7C+Automation;Always+learning+something+new+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=760&lines=Building+things+that+shouldn't+be+this+complicated;React+%7C+Next.js+%7C+TypeScript+%7C+Node.js;Automation+%7C+APIs+%7C+Cloud+%7C+Data;Turning+%22what+if%3F%22+into+production+code;Always+breaking+things+%E2%80%94+then+automating+the+fix+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br />
 
 <a href="https://kedarshah.in">
-  <img src="https://img.shields.io/badge/🌐%20Portfolio-kedarshah.in-0d1117?style=for-the-badge&labelColor=0d1117&color=2f81f7" alt="Portfolio" />
+<img src="https://img.shields.io/badge/Portfolio-kedarshah.in-0D1117?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117&color=2F81F7" alt="Portfolio" />
 </a>
+
+<a href="https://github.com/Kedar355">
+<img src="https://img.shields.io/badge/GitHub-Kedar355-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=6E7681" alt="GitHub" />
+</a>
+
 <a href="https://linkedin.com/in/kedar-shah355">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117&color=0077B5" alt="LinkedIn" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117&color=0077B5" alt="LinkedIn" />
 </a>
+
 <a href="mailto:kedarshah355@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-0d1117?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117&color=D14836" alt="Email" />
+<img src="https://img.shields.io/badge/Email-Contact-0D1117?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117&color=D14836" alt="Email" />
 </a>
 
 <br /><br />
 
-<img src="https://komarev.com/ghpvc/?username=kedar355&label=Profile%20Views&color=2f81f7&style=flat-square" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=kedar355&label=PROFILE+VIEWS&color=2F81F7&style=flat-square" alt="Profile Views" />
 
 </div>
 
-
 ---
 
-## 💼 About Me
+## `whoami`
+
+<div>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ```typescript
-const kedar: Developer = {
-  name: "Kedar Shah",
+const kedar = {
   role: "Full Stack Developer",
-  location: "India",
-  languages: ["TypeScript", "JavaScript", "Java", "C"],
-  currentlyLearning: "React Native",
-  askMeAbout: [
-    "React", "Next.js", "TypeScript", 
-    "Why tabs > spaces"
+
+  philosophy: [
+    "Automate the boring stuff",
+    "Measure before optimizing",
+    "Ship > perfect",
+    "If it works, understand why",
+    "If it works twice, automate it"
   ],
-  technologies: {
-    comfortable: ["React", "Node.js", "MongoDB", "Express"],
-    learning: ["React Native", "Advanced TypeScript"],
-    wantToLearn: ["Rust", "Go", "GraphQL at scale"]
-  };
 
-  // TODO: Add more coffee to fuel development
-
+  currentlyExploring: [
+    "React Native",
+    "Advanced TypeScript",
+    "Rust",
+    "Go",
+    "Distributed Systems"
+  ]
+};
 ```
 
+</div>
 
- ⚡ Fun fact: **I debug with console.log and I'm proud of it!** 🐛 
- 
+> `sudo make-it-work && git commit -m "probably fixed it"`
 
----
-
-## 🛠️ Tech Stack
-
-**Frontend:** Modern client-side technologies
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,laravel,html,css,tailwind,sass,redux,angular,vue,bootstrap,mui" />
-</p>
-
-**Backend:** Server-side development and databases
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,mongodb,mysql,postgres,graphql,php,gcp,fastapi,spring" />
-</p>
-
-**Mobile & Tools:** Development tools and mobile frameworks
-<p>
-  <img src="https://skillicons.dev/icons?i=androidstudio,git,postman,docker,ubuntu,vercel,netlify" />
-</p>
+⚡ Fun fact: **I debug with console.log and I'm proud of it!** 🐛 
 
 ---
 
-## 📊 GitHub Stats
+## ⚡ What I Build
 
-<div align="center"> <a href="https://github.com/Kedar355"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=Kedar355&show_icons=true&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=2F81F7&icon_color=2F81F7&text_color=C9D1D9&rank_icon=github" alt="Kedar's GitHub Stats" /> </a> <a href="https://github.com/Kedar355"> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kedar355&layout=compact&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=2F81F7&text_color=C9D1D9&langs_count=8" alt="Top Languages" /> </a> </div> <br /> <div align="center"> <img src="https://streak-stats.demolab.com/?user=Kedar355&theme=github-dark-blue&hide_border=true&background=0D1117&ring=2F81F7&fire=2F81F7&currStreakLabel=2F81F7&sideLabels=C9D1D9&dates=8B949E" width="70%" alt="GitHub Streak" /> </div>
+<table>
+<tr>
+<td width="50%">
 
-<div align="center"> <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" /> </div>
+### 🖥️ Modern Web Apps
+
+Production-grade interfaces built with:
+
+`React` · `Next.js` · `TypeScript`
+
+Performance, scalability and clean UX.
+
+</td>
+
+<td width="50%">
+
+### 🤖 Automation
+
+Making computers handle the repetitive stuff.
+
+`Playwright` · `Puppeteer` · `APIs` · `Workers`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🔌 Backend Systems
+
+APIs, services and data pipelines.
+
+`Node.js` · `Python` · `FastAPI` · `Redis`
+
+</td>
+
+<td width="50%">
+
+### ☁️ Cloud & Infrastructure
+
+Deploying, monitoring and optimizing systems.
+
+`GCP` · `Docker` · `Linux` · `CI/CD`
+
+</td>
+</tr>
+</table>
 
 ---
-- ✅ **Open source contributor** - Contributing to the developer community
-- ✅ **Active learner** - Always exploring new technologies
-- ✅ **Zero production bugs*** - *in the last 5 minutes
+
+# 🧰 Engineering Toolbox
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,sass,redux,angular,vue,bootstrap,mui" />
+</p>
+
+### Backend & Data
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,java,spring,mongodb,mysql,postgres,graphql,redis,php" />
+</p>
+
+### Cloud, DevOps & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=gcp,docker,linux,ubuntu,git,github,githubactions,postman,vercel,netlify,vscode" />
+</p>
+
+### Mobile
+
+<p>
+<img src="https://skillicons.dev/icons?i=androidstudio,react" />
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+
+<img
+src="./profile-3d-contrib/profile-night-view.svg"
+width="100%"
+alt="3D GitHub Contributions"
+/>
+
+</div>
+
+> Automatically generated with GitHub Actions.
+
+
+
+<div align="center">
+
+</div>
+
+---
+
+# 🚀 Things I Like Building
+
+```diff
++ ⚡ Fast interfaces
++ 🧩 Reusable component systems
++ 🔌 APIs & backend services
++ 🤖 Browser automation
++ 🕷️ Crawlers & data pipelines
++ ☁️ Cloud infrastructure
++ 📊 Developer tooling
++ 🔄 Background workers
++ 🧪 Experiments that somehow become production
+```
+
+---
+
+# 🧪 The Lab
+
+Things currently occupying too many browser tabs:
+
+```text
+[01] React Native
+[02] Advanced TypeScript patterns
+[03] Rust
+[04] Go
+[05] Distributed systems
+[06] Better automation infrastructure
+[07] Developer tooling
+[08] Making computers do things humans shouldn't have to
+```
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<a href="https://github.com/Kedar355">
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=Kedar355&bg_color=0D1117&color=2F81F7&line=2F81F7&point=C9D1D9&area=true&hide_border=true"
+width="95%"
+alt="GitHub Contribution Activity"
+/>
+
+</a>
+
+</div>
+
+---
+
+
+```bash
+$ whoami
+
+kedar
+
+$ cat /etc/motd
+
+Build something useful.
+Automate something annoying.
+Learn something difficult.
+
+$ git status
+
+On branch main
+Your branch is ahead of the problem.
+
+$ echo $CURRENT_STATUS
+
+🚀 shipping
+
+$ uptime
+
+still debugging...
+```
 
 ---
 
 ## 📫 Let's Connect
 
 <div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_with_me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kedar-shah355)
-  [![Instagram](https://img.shields.io/badge/Instagram-Follow_me-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kedar._.355)
-  [![LeetCode](https://img.shields.io/badge/LeetCode-My_Solutions-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://www.leetcode.com/kedarshah355)
-  
+
+<a href="https://kedarshah.in">
+<img src="https://img.shields.io/badge/🌐_Website-kedarshah.in-0D1117?style=for-the-badge&color=2F81F7" alt="Website" />
+</a>
+
+<a href="https://github.com/Kedar355">
+<img src="https://img.shields.io/badge/💻_GitHub-Kedar355-0D1117?style=for-the-badge&logo=github&color=181717" alt="GitHub" />
+</a>
+
+<a href="https://linkedin.com/in/kedar-shah355">
+<img src="https://img.shields.io/badge/💼_LinkedIn-Kedar_Shah-0D1117?style=for-the-badge&logo=linkedin&color=0077B5" alt="LinkedIn" />
+</a>
+
+<a href="https://instagram.com/kedar._.355">
+<img src="https://img.shields.io/badge/📸_Instagram-kedar._.355-0D1117?style=for-the-badge&logo=instagram&color=E4405F" alt="Instagram" />
+</a>
+
+<a href="https://leetcode.com/kedarshah355">
+<img src="https://img.shields.io/badge/🧠_LeetCode-kedarshah355-0D1117?style=for-the-badge&logo=leetcode&color=FFA116" alt="LeetCode" />
+</a>
+
 </div>
+
+---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+
+### `while(alive) { build(); learn(); automate(); }`
+
+<br />
+
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=4000&pause=1000&color=6A737D&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+profile+%E2%9C%A8;Star+something+if+you+find+it+useful+%F0%9F%8C%9F;Now+go+build+something+cool+%F0%9F%9A%80"
+alt="Footer"
+/>
+
+<br /><br />
+
+<sub>Built with ❤️ · TypeScript · caffeine · questionable engineering decisions</sub>
+
+<br /><br />
+
+<img
+src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg"
+width="100%"
+alt="Footer"
+/>
+
 </div>
-
-
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=6A737D&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile;Feel+free+to+star+my+repos;Or+don't%2C+I'm+not+your+boss;Have+a+great+day!+%E2%9C%A8)](https://git.io/typing-svg)
-
-</div>
-
-
-
-<div align="center">
-  <sub>Built with ❤️ and an unhealthy amount of caffeine</sub>
-</div>
-
-<p align="center">
-        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
-</p>
