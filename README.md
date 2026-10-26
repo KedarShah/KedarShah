@@ -204,25 +204,6 @@ Things currently occupying too many browser tabs:
 
 ---
 
-# 📈 Contribution Activity
-
-<div align="center">
-
-<a href="https://github.com/Kedar355">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=Kedar355&bg_color=0D1117&color=2F81F7&line=2F81F7&point=C9D1D9&area=true&hide_border=true"
-width="95%"
-alt="GitHub Contribution Activity"
-/>
-
-</a>
-
-</div>
-
----
-
-
 ```bash
 $ whoami
 
