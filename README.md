@@ -166,8 +166,8 @@ alt="3D GitHub Contributions"
 > Automatically generated with GitHub Actions.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KedarShah&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KedarShah&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kedarshah&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kedarshah&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
 </div>
 
 <div align="center">
